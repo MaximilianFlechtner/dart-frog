@@ -17,6 +17,4 @@ features:
 - title: Production Builds 👷‍♂️
 - title: 🚧 Generated Dart Client Package 📦
 - title: 🚧 Generated API Documentation 📔
-
-footer: Made by Maximilian Flechtner with ❤️
 ---

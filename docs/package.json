@@ -7,7 +7,7 @@
     "name": "Maximilian Flechtner",
     "email": "flechtner@techno1ogy.de"
   },
-  "repository": "/dart-frog",
+  "repository": "VeryGoodOpenSource/dart_frog",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
